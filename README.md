@@ -1,3 +1,5 @@
+🌍 Languages: [English](README.md) | [فارسی](README_FA.md)
+
 # 🌐 ماشین حساب شبکه (Network Subnet Calculator)
 
 یک ابزار دسکتاپ ساده و کاربردی که با Python و Tkinter توسعه داده شده است و امکان محاسبه اطلاعات شبکه را تنها با وارد کردن یک آدرس IP به همراه CIDR فراهم می‌کند.
