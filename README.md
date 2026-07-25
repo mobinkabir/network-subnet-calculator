@@ -1,4 +1,4 @@
-🌍 Languages: [English](README_EN.md) | [فارسی](README_FA.md)
+🌍 Languages: [English](README.md) | [فارسی](README_FA.md)
 
 # 🌐 Network Subnet Calculator
 
